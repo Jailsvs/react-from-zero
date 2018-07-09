@@ -3,6 +3,12 @@
 Um tutorial (99% sem ES2015) simples para React
 
 Tudo roda no browser sem uma pre-compilação manual.
+
+## Create React App
+
+Se você quiser executar os exemplos com [create-react-app](https://github.com/facebook/create-react-app), você tem que copiar as partes dos scripts de exemplo de `text/babel` para o arquivo `src/index.js` do app React criado, e mudar o ID do `renderTarget` de `app` para `root`.
+
+
 ## Original
 
 - [![china](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/England.png) **Inglês**](https://github.com/kay-is/react-from-zero)
