@@ -13,15 +13,15 @@ Se você quiser executar os exemplos com [create-react-app](https://github.com/f
 
 - [![china](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/England.png) **Inglês**](https://github.com/kay-is/react-from-zero)
 
-## Translations
+## Traduções
 
 - [![china](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **中文/Chinês**](https://github.com/chinanf-boy/react-from-zero)
 
 - [![brazil](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Brazil.png) **Portugês do Brasil**](https://github.com/andre-motta/react-from-zero)
 
-- [![Russia](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Russia.png) **Russian**](https://github.com/lex111/react-from-zero)
+- [![Russia](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Russia.png) **Russo**](https://github.com/lex111/react-from-zero)
 
-## Lessons
+## Lições
 
 [Lição 0 - Elementos-Objetos](https://github.com/andre-motta/react-from-zero/blob/master/00-object-elements.html) -
 [Preview](https://cdn.rawgit.com/andre-motta/react-from-zero/b31878c2/00-object-elements.html)
