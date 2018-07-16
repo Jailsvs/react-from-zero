@@ -21,6 +21,8 @@ Se você quiser executar os exemplos com [create-react-app](https://github.com/f
 
 - [![Russia](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Russia.png) **Russo**](https://github.com/lex111/react-from-zero)
 
+- [![Spain](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Spain.png) **Español / Espanhol**](https://github.com/sejas/react-desde-cero)
+
 ## Lições
 
 [Lição 0 - Elementos-Objetos](https://github.com/andre-motta/react-from-zero/blob/master/00-object-elements.html) -
